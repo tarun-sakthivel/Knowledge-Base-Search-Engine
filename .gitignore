@@ -1,0 +1,3 @@
+searchenv/
+.env
+__pycache__/
